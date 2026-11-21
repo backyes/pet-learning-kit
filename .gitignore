@@ -1,0 +1,8 @@
+.DS_Store
+*.aiff
+*.aiff.txt
+_tts/
+_tmp/
+*.tmp
+node_modules/
+.env
